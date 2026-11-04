@@ -17,7 +17,6 @@
 5.  [Directory Structure](#directory-structure)
 6.  [Design Decisions](#design-decisions)
 7.  [Contributions and Feedback](#contributions-and-feedback)
-8.  [Disclaimer](#disclaimer)
 
 ## 1. Introduction <a name="introduction"></a>
 
@@ -149,7 +148,3 @@ Each Moodle event is converted into a Google Calendar event with the following d
 ## 7. Contributions and Feedback <a name="contributions-and-feedback"></a>
 
 Suggestions for improvements and bug reports are always welcome. A useful next step would be to delete events from Google Calendar when they are removed from Moodle.
-
-## 8. Disclaimer <a name="disclaimer"></a>
-
-This project is for educational and personal use. Use it responsibly and in line with your university's rules and Google's terms of service. Keep your Moodle link and your keys private.
