@@ -22,6 +22,8 @@
 
 The Moodle to Google Calendar Sync is a Python program that copies the deadlines and events from my university platform into Google Calendar. It downloads the Moodle feed, reads each event, and then creates or updates the matching event in Google Calendar. It is built with the `requests` and `icalendar` libraries, the Google Calendar API, and GitHub Actions for the daily schedule.
 
+![Google Calendar showing Moodle deadlines synced into the Uni calendar](images/calendar-screenshot.png)
+
 ## 2. Getting Started <a name="getting-started"></a>
 
 ### Prerequisites <a name="prerequisites"></a>
